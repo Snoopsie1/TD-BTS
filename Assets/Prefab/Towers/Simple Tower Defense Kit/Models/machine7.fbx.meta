@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: d0b8ac922e58d3540a8c3868d2eff489
+timeCreated: 1511869472
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: machine7body
+    100004: machine7body1
+    100006: machine7body2
+    100008: machine7body3
+    100010: machine7body4
+    100012: machine7body5
+    100014: machine7missile
+    100016: machine7missile1
+    100018: machine7missile2
+    100020: machine7missile3
+    100022: machine7wing
+    100024: machine7wing1
+    100026: machine7wing10
+    100028: machine7wing11
+    100030: machine7wing2
+    100032: machine7wing3
+    100034: machine7wing4
+    100036: machine7wing5
+    100038: machine7wing6
+    100040: machine7wing7
+    100042: machine7wing8
+    100044: machine7wing9
+    400000: //RootNode
+    400002: machine7body
+    400004: machine7body1
+    400006: machine7body2
+    400008: machine7body3
+    400010: machine7body4
+    400012: machine7body5
+    400014: machine7missile
+    400016: machine7missile1
+    400018: machine7missile2
+    400020: machine7missile3
+    400022: machine7wing
+    400024: machine7wing1
+    400026: machine7wing10
+    400028: machine7wing11
+    400030: machine7wing2
+    400032: machine7wing3
+    400034: machine7wing4
+    400036: machine7wing5
+    400038: machine7wing6
+    400040: machine7wing7
+    400042: machine7wing8
+    400044: machine7wing9
+    2300000: machine7body
+    2300002: machine7body1
+    2300004: machine7body2
+    2300006: machine7body3
+    2300008: machine7body4
+    2300010: machine7body5
+    2300012: machine7missile
+    2300014: machine7missile1
+    2300016: machine7missile2
+    2300018: machine7missile3
+    2300020: machine7wing
+    2300022: machine7wing1
+    2300024: machine7wing10
+    2300026: machine7wing11
+    2300028: machine7wing2
+    2300030: machine7wing3
+    2300032: machine7wing4
+    2300034: machine7wing5
+    2300036: machine7wing6
+    2300038: machine7wing7
+    2300040: machine7wing8
+    2300042: machine7wing9
+    3300000: machine7body
+    3300002: machine7body1
+    3300004: machine7body2
+    3300006: machine7body3
+    3300008: machine7body4
+    3300010: machine7body5
+    3300012: machine7missile
+    3300014: machine7missile1
+    3300016: machine7missile2
+    3300018: machine7missile3
+    3300020: machine7wing
+    3300022: machine7wing1
+    3300024: machine7wing10
+    3300026: machine7wing11
+    3300028: machine7wing2
+    3300030: machine7wing3
+    3300032: machine7wing4
+    3300034: machine7wing5
+    3300036: machine7wing6
+    3300038: machine7wing7
+    3300040: machine7wing8
+    3300042: machine7wing9
+    4300000: machine7body
+    4300002: machine7body1
+    4300004: machine7body2
+    4300006: machine7body3
+    4300008: machine7body4
+    4300010: machine7body5
+    4300012: machine7missile
+    4300014: machine7wing
+    4300016: machine7wing1
+    4300018: machine7wing2
+    4300020: machine7missile1
+    4300022: machine7wing3
+    4300024: machine7wing4
+    4300026: machine7wing5
+    4300028: machine7missile2
+    4300030: machine7wing6
+    4300032: machine7wing7
+    4300034: machine7wing8
+    4300036: machine7missile3
+    4300038: machine7wing9
+    4300040: machine7wing10
+    4300042: machine7wing11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
